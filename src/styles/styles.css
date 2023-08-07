@@ -1,0 +1,29 @@
+/* https://colorhunt.co/palette/00ffab14c38eb8f1b0e3fcbf */
+
+.navbar-bg {
+    background-color: #14C38E;
+}
+
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+    color: #E3FCBF;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+#carousel {
+    max-height: 500px;
+}
+
+.heading {
+    font-size: 2.5rem;
+}
+
+/* -------------- SignUp -------------- */
+
+.alert-button {
+    background-color: #14C38E;
+}
